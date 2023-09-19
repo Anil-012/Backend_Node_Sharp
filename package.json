@@ -1,0 +1,25 @@
+{
+  "name": "backend_testing",
+  "version": "1.0.0",
+  "description": "Practice session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anil-012/Backend_Node_Sharp.git"
+  },
+  "keywords": [
+    "pin_point"
+  ],
+  "author": "Anil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anil-012/Backend_Node_Sharp/issues"
+  },
+  "homepage": "https://github.com/Anil-012/Backend_Node_Sharp#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
